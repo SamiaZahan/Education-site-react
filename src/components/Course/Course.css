@@ -1,0 +1,9 @@
+.course-card{
+    width: 75%;
+    margin: auto;
+    padding: 10px;
+}
+.card-img{
+    border-radius: 15px;
+    height: 150px;
+}

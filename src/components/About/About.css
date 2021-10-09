@@ -1,0 +1,47 @@
+.top{
+    background-image: url('../images/bg-img.jpg');
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.top-text{
+    background-color: rgba(20, 19, 19, 0.5);
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.top-text h2{
+    width: 50%;
+    padding: 50px;
+    border-radius: 5px ;
+    margin: auto;
+    background-color: rgba(95, 94, 94, 0.5);
+}
+.about-text{
+    width: 50%;
+    margin: auto;
+    box-shadow: 2px 2px 4px 4px rgb(216, 178, 9);
+    padding: 30px;
+    border-radius: 5px;
+}
+.about-text p{
+    width: 50%;
+    margin: auto;
+}
+.card-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 75%;
+    margin: auto;
+}
+
+.card{
+    margin: 20px 20px;
+    box-shadow: 2px 2px 4px 4px rgb(216, 178, 9);
+    border-radius: 5px;
+    padding: 20px 0;
+
+}
+

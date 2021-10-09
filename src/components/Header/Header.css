@@ -1,0 +1,14 @@
+.link{
+    text-decoration: none;
+    color: white;
+    margin: 0 5px ;
+} 
+
+
+.link:hover{
+    color: lightgray;
+    border-bottom: 1px solid lightgray;
+}
+.icon-img{
+    width: 50px;
+}

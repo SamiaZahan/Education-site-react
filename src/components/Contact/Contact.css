@@ -1,0 +1,20 @@
+.message{
+    width: 50%;
+    margin: auto;
+}
+.message input{
+    display: block;
+    padding: 10px;
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 2px 2px 4px 4px rgb(216, 178, 9);
+}
+.message button{
+    padding: 10px 20px;
+    margin: 20px 0;
+    border-radius: 5px;
+    box-shadow: 2px 2px 4px 4px rgb(216, 178, 9);
+    border: none;
+}
